@@ -1,6 +1,6 @@
 
 # my files structure
-📦 your-project
+📦 mern-stack-project
  ┣ 📂 components      # Reusable UI components
  ┃ ┣ 📜 Navbar.js
  ┃ ┣ 📜 Footer.js
